@@ -1,0 +1,2 @@
+model,seed,horizon,entered,completed,good,defective,wip,mean_cycle,mean_wip,resource_utilization
+battery,160005012,14400.0,47,39,39,0,8,2594.2800045513045,8.5142063374227,0.9016838259609198

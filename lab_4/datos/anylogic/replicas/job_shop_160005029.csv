@@ -1,0 +1,2 @@
+model,seed,horizon,entered,completed,good,defective,wip,mean_cycle,mean_wip,resource_utilization
+job_shop,160005029,480.0,480,442,442,0,38,60.11673311929653,60.10572952269823,0.9552679064637504

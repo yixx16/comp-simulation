@@ -1,0 +1,50 @@
+[
+  {
+    "model": "Subway Entrance",
+    "file": "Subway Entrance\\Subway Entrance.alp",
+    "official_source": "C:\\ProgramData\\AnyLogic 8.9 Personal Learning Edition\\eclipse\\plugins\\com.anylogic.examples_8.9.10.202609231424\\basicmodels\\Subway Entrance Hall - Phase 4\\Subway Entrance Hall - Phase 4.alp",
+    "official_sha256": "084890a088382d19d6e768e7486ec739990114be895cbcbe98f7fea5e086d585",
+    "phases": 4,
+    "seed": 1,
+    "horizon": 60,
+    "time_unit": "Minute",
+    "guide": "https://anylogic.help/tutorials/pedestrian/index.html",
+    "validation": "Pendiente de ejecutar en AnyLogic"
+  },
+  {
+    "model": "Intersection",
+    "file": "Intersection\\Intersection.alp",
+    "official_source": "C:\\ProgramData\\AnyLogic 8.9 Personal Learning Edition\\eclipse\\plugins\\com.anylogic.examples_8.9.10.202609231424\\basicmodels\\Road Traffic Tutorial - Phase 6\\Road Traffic Tutorial - Phase 6.alp",
+    "official_sha256": "53dd1cc562f3b021d0c9d18491f735eee595e3890f690af648705d887e692bc0",
+    "phases": 6,
+    "seed": 1,
+    "horizon": 3600,
+    "time_unit": "Second",
+    "guide": "https://anylogic.help/tutorials/road-traffic/index.html",
+    "validation": "Pendiente de ejecutar en AnyLogic"
+  },
+  {
+    "model": "Job Shop",
+    "file": "Job Shop\\Job Shop.alp",
+    "official_source": "C:\\ProgramData\\AnyLogic 8.9 Personal Learning Edition\\eclipse\\plugins\\com.anylogic.examples_8.9.10.202609231424\\basicmodels\\Job Shop - Phase 5\\Job Shop - Phase 5.alp",
+    "official_sha256": "f88111939390aaedfd30b0153d6fc1f6c6655e151272a069e46202a67824c554",
+    "phases": 5,
+    "seed": 1,
+    "horizon": 480,
+    "time_unit": "Minute",
+    "guide": "https://anylogic.help/tutorials/job-shop/index.html",
+    "validation": "Pendiente de ejecutar en AnyLogic"
+  },
+  {
+    "model": "Lead Acid Battery Production",
+    "file": "Lead Acid Battery Production\\Lead Acid Battery Production.alp",
+    "official_source": "C:\\ProgramData\\AnyLogic 8.9 Personal Learning Edition\\eclipse\\plugins\\com.anylogic.examples_8.9.10.202609231424\\basicmodels\\Lead Acid Battery Production Phase 8\\Lead Acid Battery Production Phase 8.alp",
+    "official_sha256": "f28f19e7a9da462545ff20cfb30c819801c3ba755b351188df083b9b098b74fd",
+    "phases": 8,
+    "seed": 1,
+    "horizon": 28800,
+    "time_unit": "Second",
+    "guide": "https://anylogic.help/tutorials/material-handling/index.html",
+    "validation": "Pendiente de ejecutar en AnyLogic"
+  }
+]

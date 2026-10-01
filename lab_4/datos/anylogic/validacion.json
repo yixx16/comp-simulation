@@ -1,0 +1,26 @@
+{
+  "anylogic_version": "PLE 8.9.10",
+  "models": [
+    {
+      "file": "anylogic_models\\Job Shop Lab4\\Job Shop Lab4.alp",
+      "sha256": "92f980a767e442c8eb7f90ff96aafe5af741f5a2ef6479c111951e79905d2a08"
+    },
+    {
+      "file": "anylogic_models\\Lead Acid Battery Lab4\\Lead Acid Battery Lab4.alp",
+      "sha256": "2b668803be45e6d52927c70d5e6a93495bd7ab4861da78dd79c0ee93aca2532a"
+    }
+  ],
+  "replicas_per_model": 20,
+  "seeds": [
+    160005011,
+    160005030
+  ],
+  "job_shop_hours": 8,
+  "battery_hours": 4,
+  "checks": [
+    "40 horizontes completos",
+    "entradas = salidas + WIP final",
+    "salidas = conformes + rechazadas"
+  ],
+  "latex_status": "Fuente actualizada; compilador integrado no disponible: Unable to find standard directories for platform"
+}
